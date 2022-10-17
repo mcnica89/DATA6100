@@ -10,5 +10,7 @@ Th Oct 6
 
 [Sigmoid Function](https://www.desmos.com/calculator/qzm7g37unn)
 
+Tu Oct 18
 
+[Bayesian Discriminator with Kernel Density Estimation](https://www.desmos.com/calculator/7guegw1ha2)
 
