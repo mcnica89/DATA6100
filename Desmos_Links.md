@@ -12,5 +12,5 @@ Th Oct 6
 
 Tu Oct 18
 
-[Bayesian Discriminator with Kernel Density Estimation](https://www.desmos.com/calculator/7guegw1ha2)
+[Bayesian Discriminator with Kernel Density Estimation and Gaussian Estimation](https://www.desmos.com/calculator/nvqe6ld0um)
 
