@@ -14,3 +14,6 @@ Tu Oct 18
 
 [Bayesian Discriminator with Kernel Density Estimation and Gaussian Estimation](https://www.desmos.com/calculator/ewdpcdwvg8)
 
+Tu Nov 8
+
+[Playing with 2D regions in the lasso](https://www.desmos.com/calculator/az6puivubm)
