@@ -17,3 +17,7 @@ Tu Oct 18
 Tu Nov 8
 
 [Playing with 2D regions in the lasso](https://www.desmos.com/calculator/az6puivubm)
+
+Th Nov 10
+
+[PCA in 2D demo](https://www.desmos.com/calculator/cbvdgnc7gi)
