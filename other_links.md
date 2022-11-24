@@ -4,4 +4,8 @@ Illustrated Guide to Word2Vec https://jalammar.github.io/illustrated-word2vec/
 
 Intro to Support Vector Machines https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
 
+Intro to Decision Trees and Random Forests https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html
+
+
+
 
